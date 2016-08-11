@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     public void hhhhh(){
      int b=0;
         int d=6;
+        int hqq=6666;
     }
 
 
