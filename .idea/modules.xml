@@ -3,22 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HomeFragment/HomeFragment.iml" filepath="$PROJECT_DIR$/HomeFragment/HomeFragment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HomeFragment/HomeFragment.iml" filepath="$PROJECT_DIR$/HomeFragment/HomeFragment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MineFragment/MineFragment.iml" filepath="$PROJECT_DIR$/MineFragment/MineFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/MineFragment/MineFragment.iml" filepath="$PROJECT_DIR$/MineFragment/MineFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ourfirstprj.iml" filepath="$PROJECT_DIR$/Ourfirstprj.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ourfirstprj.iml" filepath="$PROJECT_DIR$/Ourfirstprj.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ourfirstprj.iml" filepath="$PROJECT_DIR$/Ourfirstprj.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HomeFragment/homefragment.iml" filepath="$PROJECT_DIR$/HomeFragment/homefragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/MineFragment/mine.iml" filepath="$PROJECT_DIR$/MineFragment/mine.iml" />
-      <module fileurl="file://$PROJECT_DIR$/releasefragment/releasefragment.iml" filepath="$PROJECT_DIR$/releasefragment/releasefragment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/releasefragment/releasefragment.iml" filepath="$PROJECT_DIR$/releasefragment/releasefragment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/releasefragment/releasefragment.iml" filepath="$PROJECT_DIR$/releasefragment/releasefragment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testlibrary/testlibrary.iml" filepath="$PROJECT_DIR$/testlibrary/testlibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testlibrary/testlibrary.iml" filepath="$PROJECT_DIR$/testlibrary/testlibrary.iml" />
     </modules>
   </component>
 </project>

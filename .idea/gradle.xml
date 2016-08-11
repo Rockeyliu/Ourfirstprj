@@ -12,8 +12,6 @@
             <option value="$PROJECT_DIR$/HomeFragment" />
             <option value="$PROJECT_DIR$/MineFragment" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/releasefragment" />
-            <option value="$PROJECT_DIR$/testlibrary" />
           </set>
         </option>
         <option name="myModules">
@@ -22,8 +20,6 @@
             <option value="$PROJECT_DIR$/HomeFragment" />
             <option value="$PROJECT_DIR$/MineFragment" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/releasefragment" />
-            <option value="$PROJECT_DIR$/testlibrary" />
           </set>
         </option>
       </GradleProjectSettings>
