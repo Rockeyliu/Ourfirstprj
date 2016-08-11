@@ -1,1 +1,1 @@
-include ':app', ':HomeFragment', ':MineFragment', ':releasefragment', ':testlibrary'
+include ':app', ':HomeFragment', ':MineFragment'
